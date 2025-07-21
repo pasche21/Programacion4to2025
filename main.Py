@@ -24,3 +24,4 @@ print(
     ", se encuentra con Mike, Dustin y Lucas, amigos de " + nombre_nino +
     ", y los ayuda en la búsqueda de su amigo desaparecido."
 )
+t
