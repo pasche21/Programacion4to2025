@@ -12,11 +12,8 @@ nombre_nino = input("Escribí un nombre de niño: ")
 nombre_chica = input("Escribí un nombre de niña: ")
 sustantivo = input("Escribí un sustantivo relacionado con poderes: ")
 
-# Mostrar un título
-print("\n🌟 Tu historia personalizada de ciencia ficción 🌟\n")
 
-# Mostrar la historia con las palabras reemplazadas
-print(
+
     "La historia se sitúa en el pueblo ficticio de " + lugar + ", en el estado de " + estado +
     ", durante los años ochenta, cuando un niño de doce años llamado " + nombre_nino +
     " desaparece misteriosamente.\nPoco después, " + nombre_chica + 
